@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Nathan Hunt | Portfolio
 ---
 
 ## About me
