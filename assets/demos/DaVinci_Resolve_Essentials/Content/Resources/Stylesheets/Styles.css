@@ -210,7 +210,7 @@ h1
 {
 	color: #394058;
 	font-size: 24pt;
-	font-family: 'IBM Plex Sans';
+	font-family: 'IBM Plex Sans', Arial, sans-serif;
 	font-weight: bold;
 	border-bottom: solid 3px #000000;
 	border-bottom-color: #394058;
@@ -220,7 +220,7 @@ h1
 h2
 {
 	font-weight: normal;
-	font-family: 'IBM Plex Sans';
+	font-family: 'IBM Plex Sans', Arial, sans-serif;
 	font-size: 18pt;
 	margin-top: 1.5em;
 	margin-bottom: 0;
@@ -369,7 +369,7 @@ MadCap|dropDownHotspot
 	text-decoration: none;
 	color: #45494C;
 	border-bottom: none;
-	font-family: 'IBM Plex Sans';
+	font-family: 'IBM Plex Sans', Arial, sans-serif;
 	font-size: 20pt;
 }
 
@@ -502,7 +502,7 @@ MadCap|breadcrumbsProxy
 
 MadCap|dropDownHead
 {
-	font-family: 'IBM Plex Sans';
+	font-family: 'IBM Plex Sans', Arial, sans-serif;
 	font-size: 16pt;
 	font-weight: normal;
 }
@@ -625,21 +625,6 @@ blockquote
 
 	/* Headings */
 
-	h1
-	{
-		
-	}
-
-	h2
-	{
-		
-	}
-
-	h3
-	{
-		
-	}
-
 	MadCap|dropDown
 	{
 		border: none;
@@ -668,7 +653,7 @@ blockquote
 
 	p.title
 	{
-		font-family: 'IBM Plex Sans';
+		font-family: 'IBM Plex Sans', Arial, sans-serif;
 		font-weight: bolder;
 		line-height: 1;
 		margin-left: 0px;
@@ -680,7 +665,7 @@ blockquote
 
 	p.subtitle
 	{
-		font-family: 'IBM Plex Sans';
+		font-family: 'IBM Plex Sans', Arial, sans-serif;
 		font-size: 16;
 		color: #ffffff;
 		text-align: left;
