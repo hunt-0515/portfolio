@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[0],u:['../Content/DaVinci Help/0 Cover.htm'],s:['+'],p:[['+',2],['the',4]]});

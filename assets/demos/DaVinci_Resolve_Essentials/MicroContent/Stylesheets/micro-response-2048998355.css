@@ -1,0 +1,787 @@
+/*<meta />*/
+
+/* MadCap-Branding applanguage:Templates/Projects/Online & Print/Tripane and PDF/ */
+
+.micro-response-2048998355 :root
+{
+	--Dark: #45494C;
+	--Darkest: #000000;
+	--Light: #DADEE1;
+	--Lightest: #FFFFFF;
+	--Medium: #A4AAAE;
+	--HeroImage: url('../../Content/Resources/Images/Site/Hero-Image.png');
+	--LogoImage: url('../../Content/Resources/Images/Site/Logo.png');
+	--LogoImagePrint: url('../../Content/Resources/Images/Site/Logo.svg');
+	--Secondary: #ffffff;
+	--Primary: #394058;
+	--FontFamily: Arial, Avenir, Myriad;
+}
+
+@namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
+
+.micro-response-2048998355
+{
+	color: #45494C;
+	font-family: Arial, Avenir, Myriad;
+	padding: 2% 2%;
+	background-color: #FFFFFF;
+}
+
+/* Backmatter */
+
+.micro-response-2048998355 div.GlossaryPageDefinition
+{
+	font-size: 10pt;
+}
+
+.micro-response-2048998355 div.GlossaryPageHeading
+{
+	font-size: 21pt;
+	font-weight: normal;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	border-bottom-color: #A4AAAE;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	text-align: left;
+	color: inherit;
+	padding-left: 10px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	padding-right: 10px;
+	background-image: url('../../Content/Resources/Images/Site/Backmatter-Heading-Background.png');
+	background-repeat: no-repeat;
+}
+
+.micro-response-2048998355 div.GlossaryPageTerm
+{
+	font-size: 12pt;
+	font-weight: bold;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.micro-response-2048998355 MadCap|glossaryProxy
+{
+	border-top: none;
+}
+
+.micro-response-2048998355 MadCap|indexProxy
+{
+	border-top: none;
+}
+
+.micro-response-2048998355 p.Index1
+{
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+.micro-response-2048998355 p.Index2
+{
+	font-size: 10pt;
+	font-weight: normal;
+}
+
+.micro-response-2048998355 p.IndexHeading
+{
+	font-size: 21pt;
+	font-weight: normal;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	border-bottom-color: #A4AAAE;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	text-align: left;
+	color: inherit;
+	padding-left: 10px;
+	padding-bottom: 20px;
+	padding-top: 12px;
+	padding-right: 10px;
+	background-image: url('../../Content/Resources/Images/Site/Backmatter-Heading-Background.png');
+	background-repeat: no-repeat;
+}
+
+/* Content */
+
+.micro-response-2048998355 img
+{
+	border: none;
+	max-width: 100%;
+}
+
+.micro-response-2048998355 p
+{
+	font-size: 12.0pt;
+	line-height: 20pt;
+	letter-spacing: 0.25px;
+	widows: 3;
+	orphans: 3;
+}
+
+.micro-response-2048998355 p.created-using-flare
+{
+	color: #45494C;
+	font-weight: bold;
+	margin-top: 18px;
+	font-size: 9pt;
+	line-height: 15pt;
+	text-transform: uppercase;
+}
+
+.micro-response-2048998355 p.table-text
+{
+	font-size: 12pt;
+}
+
+/* Frontmatter */
+
+.micro-response-2048998355 hr.title-page
+{
+	border: solid 0px transparent;
+	background-color: #DADEE1;
+	height: 1px;
+	width: 100%;
+	margin-bottom: 30px;
+	margin-top: 370px;
+}
+
+.micro-response-2048998355 MadCap|tocProxy
+{
+	border-top: none;
+	margin-right: 0.25in;
+	mc-toc-depth: 2;
+}
+
+.micro-response-2048998355 p.created-using-flare
+{
+	color: #000000;
+	font-weight: bold;
+	margin-top: 18px;
+	font-size: 9pt;
+	line-height: 15pt;
+	text-transform: uppercase;
+}
+
+.micro-response-2048998355 p.title
+{
+	font-size: 55pt;
+	line-height: 65pt;
+	margin-top: 30px;
+	mc-hyphenate: never;
+	color: #ffffff;
+}
+
+.micro-response-2048998355 p.title-page-footer
+{
+	color: #45494C;
+	frame-break-before: always;
+	font-size: 10pt;
+	font-family: Arial;
+	line-height: 14pt;
+}
+
+.micro-response-2048998355 p.title-page-url
+{
+	color: #45494C;
+	font-size: 9pt;
+	line-height: 15pt;
+}
+
+.micro-response-2048998355 p.TOC1
+{
+	color: #45494C;
+	font-size: 14pt;
+	font-weight: bold;
+	line-height: 21pt;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	page-break-after: avoid;
+}
+
+.micro-response-2048998355 p.TOC2
+{
+	color: #45494C;
+	font-size: 14pt;
+	font-weight: normal;
+	line-height: 21pt;
+	margin-bottom: 13px;
+	margin-left: .5in;
+	margin-top: 13px;
+}
+
+.micro-response-2048998355 p.TOC3
+{
+	color: #45494C;
+	font-size: 14pt;
+	line-height: 21pt;
+	font-weight: normal;
+	margin-bottom: 10px;
+	margin-left: 1in;
+	margin-top: 10px;
+}
+
+/* Headings */
+
+.micro-response-2048998355 h1
+{
+	color: #394058;
+	font-size: 24pt;
+	font-family: 'IBM Plex Sans';
+	font-weight: bold;
+	border-bottom: solid 3px #000000;
+	border-bottom-color: #394058;
+	padding-bottom: 2pt;
+}
+
+.micro-response-2048998355 h2
+{
+	font-weight: normal;
+	font-family: 'IBM Plex Sans';
+	font-size: 18pt;
+	margin-top: 1.5em;
+	margin-bottom: 0;
+}
+
+.micro-response-2048998355 h3
+{
+	font-weight: bold;
+	font-size: 14.0pt;
+}
+
+.micro-response-2048998355 h4
+{
+	font-weight: bold;
+	font-size: 12.0pt;
+}
+
+.micro-response-2048998355 h3,
+.micro-response-2048998355 h4,
+.micro-response-2048998355 h5,
+.micro-response-2048998355 h6
+{
+	mc-heading-level: 0;
+}
+
+/* Home page topic */
+
+.micro-response-2048998355 div.home-section
+{
+	padding: 3% 2%;
+	border-bottom: solid 1px #DADEE1;
+}
+
+.micro-response-2048998355 div.home-section:first-of-type	/*Removes padding-top of the first home-section*/
+{
+	padding: 0 2% 3%;
+}
+
+.micro-response-2048998355 div.home-section:last-of-type	/*Removes bottom border of last home-section*/
+{
+	border-bottom: none;
+}
+
+.micro-response-2048998355 div.quick-links	/*This is a custom responsive layout row style (div class) in your stylesheet. To provide your own description for this style: (1) Open the stylesheet; (2) Find and select the div class with this name; and (3) In the Comment field, replace this text with your own. For more information on adding comments to styles, see the online Help.*/
+{
+	mc-grid-row: true;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.micro-response-2048998355 div.quick-links::before
+{
+	content: ' ';
+	display: table;
+}
+
+.micro-response-2048998355 div.quick-links::after
+{
+	content: ' ';
+	display: table;
+	clear: both;
+}
+
+.micro-response-2048998355 div.quick-links > div
+{
+	float: left;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.micro-response-2048998355 div.quick-links > div:nth-child(1)
+{
+	width: 16.66666%;
+	margin-left: 2%;
+}
+
+.micro-response-2048998355 div.quick-links > div:nth-child(2)
+{
+	width: 16.66666%;
+	margin-left: 3%;
+}
+
+.micro-response-2048998355 div.quick-links > div:nth-child(3)
+{
+	width: 16.66666%;
+	margin-left: 3%;
+}
+
+.micro-response-2048998355 div.quick-links > div:nth-child(4)
+{
+	width: 16.66666%;
+	margin-left: 3%;
+}
+
+.micro-response-2048998355 div.quick-links > div:nth-child(5)
+{
+	width: 16.66666%;
+	margin-left: 3%;
+}
+
+.micro-response-2048998355 div.quick-links *	/*Text-align center set to all elements within div.quick-links*/
+{
+	text-align: center;
+}
+
+.micro-response-2048998355 .quick-links *	/*Color of the font for text in quick links*/
+{
+	color: #000000;
+}
+
+/* Links */
+
+.micro-response-2048998355 a
+{
+	color: #394058;
+}
+
+.micro-response-2048998355 a:link
+{
+	color: #394058;
+}
+
+.micro-response-2048998355 a:visited
+{
+	color: #394058;
+}
+
+.micro-response-2048998355 MadCap|dropDown
+{
+	border-bottom: 1px solid #DADEE1;
+	mc-image-position: left;
+	mc-image-spacing: 10px;
+	mc-open-image: url('../../Content/Resources/Images/Site/Minus.png');
+	mc-closed-image: url('../../Content/Resources/Images/Site/Plus.png');
+	padding: 10px 0;
+}
+
+.micro-response-2048998355 MadCap|dropDownBody
+{
+	padding: 10px 30px 0;
+}
+
+.micro-response-2048998355 MadCap|dropDownHotspot
+{
+	cursor: hand;
+	text-decoration: none;
+	color: #45494C;
+	border-bottom: none;
+	font-family: 'IBM Plex Sans';
+	font-size: 20pt;
+}
+
+.micro-response-2048998355 MadCap|expandingBody
+{
+	color: #45494C;
+	font-style: italic;
+}
+
+.micro-response-2048998355 MadCap|expandingHead
+{
+	font-style: italic;
+	font-weight: normal;
+	cursor: hand;
+	text-decoration: none;
+	color: #394058;
+}
+
+.micro-response-2048998355 MadCap|xref
+{
+	mc-format: '{para}';
+	text-decoration: underline;
+}
+
+/* Lists */
+
+.micro-response-2048998355 dd,
+.micro-response-2048998355 dd p,
+.micro-response-2048998355 dt,
+.micro-response-2048998355 dt p,
+.micro-response-2048998355 li
+{
+	margin: 0;
+}
+
+.micro-response-2048998355 li
+{
+	line-height: 1.4;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.micro-response-2048998355 li img,
+.micro-response-2048998355 p img
+{
+	width: 22px;
+	height: 22px;
+	vertical-align: baseline;
+	position: relative;
+	top: 6px;
+}
+
+.micro-response-2048998355 dl,
+.micro-response-2048998355 ol,
+.micro-response-2048998355 ul
+{
+	letter-spacing: .25px;
+	line-height: 20pt;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+/* Page layout */
+
+.micro-response-2048998355 p.frame-footer-page-number
+{
+	color: #A4AAAE;
+	font-size: 11pt;
+	font-weight: bold;
+	text-align: right;
+}
+
+.micro-response-2048998355 p.frame-footer-text
+{
+	color: #A4AAAE;
+	font-size: 11pt;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.micro-response-2048998355 .page-layout-front-header
+{
+	background-color: #394058;
+	height: 155px;
+	width: 825px;
+}
+
+.micro-response-2048998355 .page-layout-front-logo
+{
+	height: 90px;
+	width: 724px;
+	background-color: transparent;
+	background-image: url('../../Content/Resources/Images/Site/Logo.svg');
+	background-repeat: no-repeat;
+	background-size: auto 100%;
+}
+
+.micro-response-2048998355 .page-layout-front-main
+{
+	background-color: #ffffff;
+	height: 650px;
+	margin: 0px;
+}
+
+.micro-response-2048998355 .page-layout-front-footer
+{
+	height: 275px;
+	margin: 0px;
+	background-color: #45494C;
+	background-image: url('../../Content/Resources/Images/Site/Hero-Image.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+/* Master page */
+
+.micro-response-2048998355 .home-footer-logo
+{
+	background-image: url('../../Content/Resources/Images/Site/Logo.png');
+	background-repeat: no-repeat;
+	background-position: right center;
+	width: 400px;
+}
+
+.micro-response-2048998355 MadCap|breadcrumbsProxy
+{
+	border-bottom-width: 0;
+	color: #45494C;
+}
+
+.micro-response-2048998355 MadCap|dropDownHead
+{
+	font-family: 'IBM Plex Sans';
+	font-size: 16pt;
+	font-weight: normal;
+}
+
+.micro-response-2048998355 hr
+{
+	margin-top: 2.5em;
+	margin-bottom: 1.5em;
+	border: solid 1px #DADEE1;
+}
+
+.micro-response-2048998355 blockquote
+{
+	border-left: solid 4px #6ec487;
+	padding-left: 10px;
+	margin-left: 4px;
+}
+
+@media only screen and (max-width: 800px)
+{
+	/* Home page topic */
+
+	.micro-response-2048998355 div.quick-links > div:nth-child(1)
+	{
+		width: 24%;
+		margin-left: 0%;
+	}
+
+	.micro-response-2048998355 div.quick-links > div:nth-child(2)
+	{
+		width: 24%;
+		margin-left: 14%;
+	}
+
+	.micro-response-2048998355 div.quick-links > div:nth-child(3)
+	{
+		width: 24%;
+		margin-left: 14%;
+	}
+
+	.micro-response-2048998355 div.quick-links > div:nth-child(4)
+	{
+		width: 24%;
+		margin-left: 19%;
+	}
+
+	.micro-response-2048998355 div.quick-links > div:nth-child(5)
+	{
+		width: 24%;
+		margin-left: 14%;
+	}
+}
+
+@media only screen and (max-width: 600px)
+{
+	/* Home page topic */
+
+	.micro-response-2048998355 div.quick-links > div:nth-child(1)
+	{
+		width: 49%;
+		margin-left: 0;
+	}
+
+	.micro-response-2048998355 div.quick-links > div:nth-child(2)
+	{
+		width: 49%;
+		margin-left: 2%;
+	}
+
+	.micro-response-2048998355 div.quick-links > div:nth-child(3)
+	{
+		width: 49%;
+		margin-left: 0;
+	}
+
+	.micro-response-2048998355 div.quick-links > div:nth-child(4)
+	{
+		width: 49%;
+		margin-left: 2%;
+	}
+
+	.micro-response-2048998355 div.quick-links > div:nth-child(5)
+	{
+		width: 49%;
+		margin-left: 25.5%;
+	}
+
+	.micro-response-2048998355 .home-footer-logo
+	{
+		padding: 20px;
+		background-origin: content-box;
+		background-size: contain;
+	}
+}
+
+@media print
+{
+	.micro-response-2048998355
+	{
+		font-size: 11pt;
+		line-height: 13pt;
+		margin: 8px;
+		background-color: transparent;
+		padding: 0%;
+		mc-hyphenate: never;
+	}
+
+	/* Content */
+
+	.micro-response-2048998355 p
+	{
+		margin-bottom: 10px;
+		margin-top: 10px;
+	}
+
+	.micro-response-2048998355 p.table-text
+	{
+		font-size: 11pt;
+	}
+
+	/* Headings */
+
+	.micro-response-2048998355 h1
+	{
+		
+	}
+
+	.micro-response-2048998355 h2
+	{
+		
+	}
+
+	.micro-response-2048998355 h3
+	{
+		
+	}
+
+	.micro-response-2048998355 MadCap|dropDown
+	{
+		border: none;
+	}
+
+	.micro-response-2048998355 MadCap|dropDownBody
+	{
+		padding-left: 0;
+		margin-left: 0;
+	}
+
+	/* Links */
+
+	.micro-response-2048998355 MadCap|xref
+	{
+		font-weight: normal;
+		mc-format: '{para} on page {page}';
+		text-decoration: none;
+	}
+
+	.micro-response-2048998355 p.citation
+	{
+		margin-left: 0.5in;
+		text-indent: -0.5in;
+	}
+
+	.micro-response-2048998355 p.title
+	{
+		font-family: 'IBM Plex Sans';
+		font-weight: bolder;
+		line-height: 1;
+		margin-left: 0px;
+		margin-right: 0px;
+		margin-top: 0px;
+		margin: 0px;
+		font-size: 30pt;
+	}
+
+	.micro-response-2048998355 p.subtitle
+	{
+		font-family: 'IBM Plex Sans';
+		font-size: 16;
+		color: #ffffff;
+		text-align: left;
+	}
+
+	.micro-response-2048998355 p.legal
+	{
+		font-size: 10pt;
+		line-height: 1;
+		margin: 0;
+		margin-bottom: 6pt;
+		padding: 0;
+	}
+}
+
+.micro-response-2048998355 p.citation
+{
+	font-size: 12.0pt;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	line-height: 20pt;
+	widows: 3;
+	orphans: 3;
+	letter-spacing: 0.1px;
+}
+
+.micro-response-2048998355 .screenshot,
+.micro-response-2048998355 .screenshot_small,
+.micro-response-2048998355 .screenshot_medium
+{
+	text-align: center;
+	margin: 1rem 0;
+	page-break-before: avoid;
+	break-before: avoid;
+}
+
+.micro-response-2048998355 div.screenshot
+{
+	margin-left: 2.5em;
+	margin-right: 2.5em;
+}
+
+.micro-response-2048998355 .screenshot img
+{
+	display: inline-block;
+	margin: 0 auto;
+	max-width: 800px;
+	width: 100%;
+	height: auto;
+}
+
+.micro-response-2048998355 li div.screenshot,
+.micro-response-2048998355 li div.screenshot_small,
+.micro-response-2048998355 li div.screenshot_medium
+{
+	margin-left: 0;
+	margin-right: 2em;
+	margin-top: 0;
+}
+
+.micro-response-2048998355 .screenshot_small img
+{
+	display: inline-block;
+	margin: 0 auto;
+	max-width: 250px;
+	width: 100%;
+	height: auto;
+}
+
+.micro-response-2048998355 .screenshot_medium img
+{
+	display: inline-block;
+	margin: 0 auto;
+	max-width: 350px;
+	width: 100%;
+	height: auto;
+}
+
+.micro-response-2048998355 p.subtitle
+{
+	font-size: 12.0pt;
+	line-height: 20pt;
+	letter-spacing: 0.25px;
+	widows: 3;
+	orphans: 3;
+}
+
