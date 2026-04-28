@@ -1,9 +1,7 @@
 ---
 layout: home
-title: Nathan Hunt | Portfolio
+title: Nathan Hunt
 ---
-
-# Nathan Hunt
 
 ## About me
 
