@@ -36,4 +36,4 @@ A pdf user manual that guides novice users through the process of building a gam
 Built using MadCap Flare, this project includes a pdf user guide and a responsive static html site.
 
 ▷ [View the PDF](assets/pdfs/DaVinci_Resolve_Essentials.pdf)  
-▷ [View the help site](assets/demos/DaVinci_Resolve_Essentials/DaVinci_Resolve_Essentials/DaVinci%20Resolve%20—%20Essential%20Guide.htm) 
+▷ [View the help site](assets/demos/DaVinci_Resolve_Essentials/DaVinci%20Resolve%20—%20Essential%20Guide.htm)
