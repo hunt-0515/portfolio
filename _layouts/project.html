@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<article class="project">
+
+  <header class="project-header">
+    <h1>{{ page.title }}</h1>
+    <p class="meta">{{ page.year }} · {{ page.type }}</p>
+  </header>
+
+  <section class="project-body">
+    {{ content }}
+  </section>
+
+  <section class="project-assets">
+
+    {% if page.pdf %}
+      <h3>Report</h3>
+      <iframe
+        src="{{ page.pdf }}"
+        class="pdf-viewer">
+      </iframe>
+      <p><a href="{{ page.pdf }}" target="_blank">Open full PDF</a></p>
+    {% endif %}
+
+    {% if page.demo %}
+      <h3>Demo</h3>
+      <iframe
+        src="{{ page.demo }}"
+        class="demo-viewer">
+      </iframe>
+      <p><a href="{{ page.demo }}" target="_blank">Open full demo</a></p>
+    {% endif %}
+
+  </section>
+
+</article>
