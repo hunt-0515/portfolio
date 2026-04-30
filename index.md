@@ -19,14 +19,14 @@ where I developed documentation including user manuals, white papers, wikis, and
 
 ## Projects
 
-### How to Build a Gaming PC
+### How to Build a Gaming PC (PDF user manual)
 
 A pdf user manual that guides novice users through the process of building a gaming PC and installing an operating system.
 
 ▷ [View project](assets/pdfs/Build_a_Gaming_PC_WEB.pdf)
 
 
-### DaVinci Resolve — Essential Guide
+### DaVinci Resolve — Essential Guide (PDF and help site)
 
 Built using MadCap Flare, this project includes a pdf user guide and a responsive static html site.
 
