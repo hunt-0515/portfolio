@@ -45,16 +45,13 @@ Independent white paper project, written for an audience of administrators and d
 
 This wiki includes coordinated software and documentation plans for a speculative Discord update, created for the course TWR2014: Information Planning and Managment. Completed as a group project and hosted on GitHub.
 
-<<<<<<< HEAD
 ▷ [View project](assets/pdfs/Build_a_Gaming_PC_WEB.pdf)  
-▷ [See the project plan](docs/user_manual_project_plan/)
+▷ [See the project plan](docs/user-manual-project-plan/)
 
 ### DaVinci Resolve — Essential Guide
 
 Built using MadCap Flare, this project includes a pdf user guide and a responsive static html site.
 
 ▷ [View the PDF](assets/pdfs/DaVinci_Resolve_Essentials.pdf)  
-▷ [View the help site](assets/demos/DaVinci_Resolve_Essentials/DaVinci%20Resolve%20—%20Essential%20Guide.htm)
-=======
-▷ [View the wiki](https://github.com/hunt-0515/final-project-wiki/wiki)
->>>>>>> 479c585f720c5efb97a1678a4cc8f3d7ea33db4f
+▷ [View the help site](assets/demos/DaVinci_Resolve_Essentials/DaVinci%20Resolve%20—%20Essential%20Guide.htm)  
+▷ [View the wiki](https://github.com/hunt-0515/final-project-wiki/wiki)  
