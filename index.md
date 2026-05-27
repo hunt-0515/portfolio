@@ -29,7 +29,8 @@ Independent white paper project, written for an audience of administrators and d
 
 A pdf user manual that guides novice users through the process of building a gaming PC and installing an operating system.
 
-▷ [View project](assets/pdfs/Build_a_Gaming_PC_WEB.pdf)
+▷ [View project](assets/pdfs/Build_a_Gaming_PC_WEB.pdf)  
+▷ [See the project plan](docs/user_manual_project_plan/)
 
 ### DaVinci Resolve — Essential Guide
 
