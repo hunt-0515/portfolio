@@ -5,16 +5,18 @@ title: Nathan Hunt | Portfolio
 
 ## About me
 
-I hold a Graduate Certificate in Technical Writing (Algonquin College, 2026), 
-where I developed documentation including user manuals, white papers, wikis, and e-learning modules.
- 
+I hold a BEng in Mechanical Engineering (Ontario Tech University, 2017), and a Graduate Certificate in Technical Writing (Algonquin College, 2026). I use my background in engineering and technical operations to translate complex technical systems into clear, user-focused documentation.
+
+During my technical writing studies, I developed user manuals, white papers, online help, wikis, and e-learning modules while applying information architecture, usability testing, and structured content principles.
+
 **Core skills:**
 - User documentation and SOPs
 - Technical editing (substantive, copyediting, proofreading) 
 - Information architecture and usability 
 - Research, analysis, and SME interviews 
-- Structured content (DITA/XML) and CMS tools 
+- Structured content (DITA/XML) and CMS tools
 
+▷ **[View my resumé](assets/pdfs/resume.pdf)**
 ---
 
 ## Projects
@@ -23,7 +25,7 @@ where I developed documentation including user manuals, white papers, wikis, and
 
 A pdf user manual that guides novice users through the process of building a gaming PC and installing an operating system.
 
-▷ [View project](assets/pdfs/Build_a_Gaming_PC_WEB.pdf)
+▷ [View the PDF guide](assets/pdfs/Build_a_Gaming_PC_WEB.pdf)
 
 ▷ [See the project plan](docs/user-manual-project-plan/)
 
@@ -34,17 +36,17 @@ Built using MadCap Flare, this project includes a pdf user guide and a responsiv
 
 ▷ [View the PDF](assets/pdfs/DaVinci_Resolve_Essentials.pdf)
 
-▷ [View the help site](assets/demos/DaVinci_Resolve_Essentials/DaVinci%20Resolve%20—%20Essential%20Guide.htm)
+▷ [Visit the help site](assets/demos/DaVinci_Resolve_Essentials/DaVinci%20Resolve%20—%20Essential%20Guide.htm)
 
 
 ### Three Reasons AR/VR Telesurgery Should Lead Your Surgical Strategy
 
 Independent white paper project, written for an audience of administrators and directors of health networks and large regional hospitals.
 
-▷ [View project](assets/pdfs/Telesurgery_White_Paper.pdf)
+▷ [Read the white paper](assets/pdfs/Telesurgery_White_Paper.pdf)
 
 ### Speculative Discord Feature Update Wiki
 
 This wiki includes coordinated software and documentation plans for a speculative Discord update, created for the course TWR2014: Information Planning and Managment. Completed as a group project and hosted on GitHub.
 
-▷ [View the wiki](https://github.com/hunt-0515/final-project-wiki/wiki)  
+▷ [Visit the wiki](https://github.com/hunt-0515/final-project-wiki/wiki)  
