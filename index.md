@@ -5,7 +5,7 @@ title: Nathan Hunt | Portfolio
 
 ## About me
 
-I recently completed a Graduate Certificate in Technical Writing (Algonquin College, 2026), 
+I hold a Graduate Certificate in Technical Writing (Algonquin College, 2026), 
 where I developed documentation including user manuals, white papers, wikis, and e-learning modules.
  
 **Core skills:**
