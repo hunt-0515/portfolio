@@ -61,13 +61,13 @@ This wiki includes speculative software and documentation project plans for an u
 
 A web-based learning module designed to teach users how to play the Dungeons & Dragons tabletop roleplaying game in under 30 minutes. In this group project, I wrote the second lesson, "Become a Dungeon Master," and contributed to the editing and design of the SCORM module.
 
-&#9741; [Visit the e-learning module](assets/demos/learn_dnd/index.html)
+&#9741; [Visit the e-learning module](assets/demos/learn_dnd/module/)
 
 
 <details>
 <summary><strong>Other portfolio pieces</strong></summary>
 
-### Technical editing sample contract and markup
+<h3>Technical editing sample contract and markup</h3>
 
 A sample editing plan and contract, along with example edits, are available on request.
 </details>
