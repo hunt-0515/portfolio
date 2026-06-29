@@ -16,7 +16,7 @@ During my technical writing studies, I developed user manuals, white papers, onl
 - Research, analysis, and SME interviews 
 - Structured content (DITA/XML) and CMS tools
 
-▷ **[View my resumé](assets/pdfs/resume.pdf)**
+&#x1F4E5; **[View my resumé](assets/pdfs/resume.pdf)**
 
 ---
 
@@ -25,6 +25,8 @@ During my technical writing studies, I developed user manuals, white papers, onl
 ### How to Build a Gaming PC (PDF user manual)
 
 A pdf user manual that guides novice users through the process of building a gaming PC and installing an operating system.
+
+Tools: MadCap Flare
 
 ▷ [View the PDF guide](assets/pdfs/Build_a_Gaming_PC_WEB.pdf)
 
