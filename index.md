@@ -17,6 +17,7 @@ During my technical writing studies, I developed user manuals, white papers, onl
 - Structured content (DITA/XML) and CMS tools
 
 ▷ **[View my resumé](assets/pdfs/resume.pdf)**
+
 ---
 
 ## Projects
