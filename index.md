@@ -72,9 +72,9 @@ A web-based learning module designed to teach users how to play the Dungeons & D
 A sample editing plan and contract, along with example edits, are available on request.
 
 <div class="image-grid">
-    <img src="{{ site.baseurl }}/assets/editing/sample-01.png" alt="Technical editing sample showing standard editing markup">
-    <img src="{{ site.baseurl }}/assets/editing/sample-02.png" alt="Technical editing sample showing tracked changes in Microsoft Word including grammar, punctuation, and correct word choice">
-    <img src="{{ site.baseurl }}/assets/editing/sample-03.png" alt="Technical editing sample showing tracked changes in Microsoft Word, including edits for units of measure, grammar, and specificity">
+    <img src="{{ site.baseurl }}/assets/images/sample-01.png" alt="Technical editing sample showing standard editing markup">
+    <img src="{{ site.baseurl }}/assets/images/sample-02.png" alt="Technical editing sample showing tracked changes in Microsoft Word including grammar, punctuation, and correct word choice">
+    <img src="{{ site.baseurl }}/assets/images/sample-03.png" alt="Technical editing sample showing tracked changes in Microsoft Word, including edits for units of measure, grammar, and specificity">
 </div>
 
 </details>
