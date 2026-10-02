@@ -45,15 +45,27 @@ hr {
   border: none;
   border-top: 1px solid #eee;
 }
+
 .image-grid {
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
     gap: 1rem;
 }
 
 .image-grid img {
-    flex: 1 1 250px;
-    min-width: 0;
+    width: 400px;
     height: auto;
     display: block;
+}
+
+@media (max-width: 800px) {
+    .image-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 500px) {
+    .image-grid {
+        grid-template-columns: 1fr;
+    }
 }
