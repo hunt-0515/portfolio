@@ -48,24 +48,24 @@ hr {
 
 .image-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1rem;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;
 }
 
 .image-grid img {
-    width:  30%;
+    width:  400px;
     height: auto;
     display: block;
 }
 
-@media (max-width: 45%) {
-    .image-grid {
-        grid-template-columns: repeat(2, 1fr);
-    }
-}
-
-@media (max-width: 90%) {
+@media (max-width: 875px) {
     .image-grid {
         grid-template-columns: 1fr;
     }
 }
+
+/*@media (max-width: 500px) {
+    .image-grid {
+        grid-template-columns: 1fr;
+    }
+}*/
