@@ -48,7 +48,7 @@ hr {
 
 .image-grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 1fr;
     gap: 25px;
 }
 
@@ -58,13 +58,13 @@ hr {
     display: block;
 }
 
-@media (max-width: 875px) {
+/*@media (max-width: 875px) {
     .image-grid {
         grid-template-columns: 1fr;
     }
 }
 
-/*@media (max-width: 500px) {
+@media (max-width: 500px) {
     .image-grid {
         grid-template-columns: 1fr;
     }
