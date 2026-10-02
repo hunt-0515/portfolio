@@ -53,18 +53,18 @@ hr {
 }
 
 .image-grid img {
-    width: 400px;
+    width:  30%;
     height: auto;
     display: block;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 45%) {
     .image-grid {
         grid-template-columns: repeat(2, 1fr);
     }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 90%) {
     .image-grid {
         grid-template-columns: 1fr;
     }
