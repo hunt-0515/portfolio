@@ -45,3 +45,15 @@ hr {
   border: none;
   border-top: 1px solid #eee;
 }
+.image-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.image-grid img {
+    flex: 1 1 250px;
+    min-width: 0;
+    height: auto;
+    display: block;
+}

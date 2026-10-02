@@ -70,4 +70,12 @@ A web-based learning module designed to teach users how to play the Dungeons & D
 <h3>Technical editing sample contract and markup</h3>
 
 A sample editing plan and contract, along with example edits, are available on request.
+
+<div class="image-grid">
+    <img src="{{ site.baseurl }}/assets/editing/sample-01.png" alt="Technical editing sample showing tracked edits">
+    <img src="{{ site.baseurl }}/assets/editing/sample-02.png" alt="Technical editing sample showing editorial markup">
+    <img src="{{ site.baseurl }}/assets/editing/sample-03.png" alt="Technical editing sample showing copyediting">
+    <img src="{{ site.baseurl }}/assets/editing/sample-04.png" alt="Technical editing sample">
+</div>
+
 </details>
