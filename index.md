@@ -68,7 +68,7 @@ A web-based learning module designed to teach users how to play the Dungeons & D
 
 <h3>WordPress Blog Assignment</h3>
 
-&#9741;<a href="https://hunt0515.wordpress.com/">Docs on a Deadline</a> is a technical wrting blog built in WordPress, developed as part of the technical writing program at Algonquin College.
+&#9741;<a href="https://hunt0515.wordpress.com/">Docs on a Deadline</a> is a technical writing blog built in WordPress, developed for a technical writing course at Algonquin College.
 
 <h3>Technical editing sample contract and markup</h3>
 
